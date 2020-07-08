@@ -1,0 +1,14 @@
+---
+awscli_version_verify: false
+awscli_version: "1.0.0"
+
+awscli_ospackage_state: false
+awscli_ospackage_name: null
+awscli_ospackage_version: null
+
+awscli_pippackage_state: true
+awscli_pippackage_name: 'awscli'
+awscli_pippackage_version: null
+awscli_pippackage_path: null
+
+awscli_process_path: 'aws'

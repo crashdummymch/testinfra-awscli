@@ -1,0 +1,6 @@
+---
+awscli_pippackage_path:
+  - '/usr/lib/python3.7/site-packages'
+  - '/home/e451253/.local/lib/python3.7/site-packages'
+
+    #awscli_pippackage_version: '1.18.38'
